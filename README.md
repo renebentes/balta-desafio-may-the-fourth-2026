@@ -41,3 +41,5 @@ Informa os dias de coleta de cada tipo de lixo na sua rua (API local) e organiza
 ## Minhas Recompensas
 
 ## Meus Projetos
+
+- [Meal Planner](https://github.com/renebentes/balta-desafio-may-the-fourth-2026_1-meal.git): Planejador de Refeições

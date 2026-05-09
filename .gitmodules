@@ -1,0 +1,3 @@
+[submodule "desafios/meal-planner"]
+	path = desafios/meal-planner
+	url = https://github.com/renebentes/balta-desafio-may-the-fourth-2026_1-meal.git
